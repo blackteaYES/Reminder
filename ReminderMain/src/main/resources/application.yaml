@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: reminder_main
+
+server:
+  port: 80
